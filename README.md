@@ -14,7 +14,7 @@
 - [X] Set your new password in MS Outlook Account settings as well.
 
 
-
+#
 # HOW TO SET OUT OF OFFICE (OOO) AUTOMATED RESPONSE VIA WEBMAIL?
 
 - [X] Login to Webmail using your current company email address and password
