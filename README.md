@@ -2,7 +2,7 @@
 
 - [X] Login to Webmail using your current company email address and password
 
-- [X] Once Logged In, click on Preferences tab then Change Password as shown in the following screenshot
+- [X] Once Logged In, click on ```Preferences``` tab then ```Change Password``` as shown in the following screenshot
 
 ![Preference](/images/zimbra_change_email_password.png)
 
@@ -14,10 +14,16 @@
 - [X] Set your new password in MS Outlook Account settings as well.
 
 
+
 # HOW TO SET OUT OF OFFICE (OOO) AUTOMATED RESPONSE VIA WEBMAIL?
 
 - [X] Login to Webmail using your current company email address and password
 
-- [X] Once Logged In, click on Preferences tab then ```Out of Office``` as shown in the following screenshot
+- [X] Once Logged In, click on ```Preferences``` tab then ```Out of Office``` as shown in the following screenshot
+
+- [X] Set your Out Of Office message and ```Time Period``` accordingly. If you don't know your exact return date, 
+-     leave the ```Time Period``` unchecked
 
 ![Out Of Office](/images/ooo.png)
+
+
