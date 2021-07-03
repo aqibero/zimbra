@@ -27,3 +27,11 @@
 ![Out Of Office](/images/ooo.png)
 
 
+#
+# HOW TO ADD CHAT BUDDY IN WEBMAIL?
+- [X] For faster collaboration with internal employees, chat has been the defacto standard in most companies.
+      Some use Skype, MS Teams, Discord and many others to collaborate with each employee or team across the globe.
+      With Zimbra webmail, we can use the chat zimlet to collaborate with internal employees to facilitate
+      faster communication. Click on Add buddy to add chat contacts and start the hello.
+
+![Zimbra Chat](/images/zimbra_add_buddy.png)
