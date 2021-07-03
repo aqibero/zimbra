@@ -11,5 +11,5 @@
       
 ![Preference](/images/zimbra_change_password_screen.png)
 
-- [X] Set your new password in MS Outlook Account settings
+- [X] Set your new password in MS Outlook Account settings as well.
 
